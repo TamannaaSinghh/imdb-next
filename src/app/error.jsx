@@ -1,4 +1,5 @@
 "use client"
+//error  page
 import React from 'react'
 import { useEffect } from 'react'
 const error = ({error, reset}) => {
